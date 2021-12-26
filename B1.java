@@ -17,6 +17,7 @@ array[i] =sc.nextInt();
 	System.out.print("Day so nguyen:");
 	for (int i = 0; i < n; i++) {
         System.out.print(array[i] + "\t");
+		sc.close();
 	}
 	}
 
